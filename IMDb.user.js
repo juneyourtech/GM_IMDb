@@ -9,9 +9,10 @@
 // ==/UserScript==
 
 GM_addStyle("HTML {width:auto; min-width:320px; max-width:1008px; margin-left:auto; margin-right:auto;}")
-//was: min-width:1008px
+//original: min-width:1008px
 
-GM_addStyle("HTML > BODY#styleguide-v2, HTML > BODY#styleguide-v2 #wrapper {width:auto; min-width:320px;}") //min-width:1008px
+GM_addStyle("HTML > BODY#styleguide-v2, HTML > BODY#styleguide-v2 #wrapper {width:auto; min-width:320px;}")
+//original: min-width:1008px
 
 GM_addStyle("DIV#root {width:auto; min-width:320px; max-width:1008px;}") //width:1008px
 
