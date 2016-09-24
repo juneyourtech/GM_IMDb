@@ -2,6 +2,7 @@
 // @name        IMDb
 // @namespace   IMDb
 // @description IMDb space-saving
+// @updateURL https://github.com/martrootamm/GM_IMDb/raw/master/IMDb.user.js
 // @include     *.imdb.com/*
 // @version     1
 // @grant       GM_addStyle
