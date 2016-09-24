@@ -19,7 +19,8 @@ GM_addStyle("DIV#root {width:auto; min-width:320px; max-width:1008px;}") //width
 //NAVBAR
 GM_addStyle("DIV#nb20 {background-repeat:repeat;}") //overflow-x:auto;
 
-GM_addStyle("DIV#navbar {width:auto; position:relative; height:auto; min-height:83px;}") //width:auto; min-width:320px; max-width:1008px;
+GM_addStyle("DIV#navbar {width:auto; position:relative; height:auto; min-height:83px;}")
+//original: width:auto; min-width:320px; max-width:1008px;
 
 GM_addStyle("DIV#navbar #home_img_holder {position:relative; float:left; display:inline-block;}")
 
