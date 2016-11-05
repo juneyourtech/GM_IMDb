@@ -2,9 +2,9 @@
 // @name        IMDb
 // @namespace   IMDb
 // @description IMDb space-saving
-// @updateURL https://github.com/martrootamm/GM_IMDb/raw/master/IMDb.user.js
+// @updateURL https://github.com/juneyourtech/GM_IMDb/raw/master/IMDb.user.js
 // @include     *.imdb.com/*
-// @version     1
+// @version     1.0.0.1
 // @grant       GM_addStyle
 // ==/UserScript==
 
